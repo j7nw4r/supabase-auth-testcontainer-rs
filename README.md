@@ -1,1 +1,1 @@
-# supabase-auth-testcontainer-rs
+# supabase_auth_testcontainer_rs
